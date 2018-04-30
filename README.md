@@ -3,10 +3,8 @@ react native app which have authentication and upload imges to firebase.
 
 the app utilizes the following packages :
 
-    "firebase": "^3.6.2"
-
-    "firebase-nest": "^0.1.2"
-    
+    "firebase": "^3.6.2",
+    "firebase-nest": "^0.1.2",
     "mobx": "^2.6.4",
     "mobx-firebase-store": "^0.1.19",
     "mobx-react": "^4.0.3",

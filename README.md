@@ -1,5 +1,5 @@
 # dinder the app
-react native app which have authentication and upload imges to firebase.
+react native app which can authentication and image upload to firebase server. its basically a challange app but which is made with an idea of meal discovery app which customers can share thair meal to frinds. 
 
 the app utilizes the following packages :
 
